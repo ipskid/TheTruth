@@ -3,7 +3,7 @@ name: "The Truth"
 title: "The Truth"
 description: "Dizem que quando se atinge grandeza, tem-se haters. Não é preciso isso, basta atraiçoar os que trataste como amigos para os teus próprios benefícios. Neste site vou explicar, com provas, como o Francisco Taveira e o Bernardo Sampaio usaram-me a mim e ao baterista Bóris durante um ano, convencendo-nos que éramos parte da banda. Quando quiseram ver livres de nós, passaram a referir-nos como 'contratados'."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: 'https://ipskid.github.io/TheTruth'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
