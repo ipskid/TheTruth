@@ -1,7 +1,7 @@
 # Site
 name: "The Truth"
 title: "The Truth"
-description: "Neste site apresento provas e histórias de Francisco Taveira e o Bernardo Sampaio em como mentem e usam as pessoas que os rodeiam."
+description: "Neste site apresento provas e histórias de Francisco Taveira e Bernardo Sampaio, focando nas mentiras e manipulaçäo."
 logo: 'assets/images/DP1.jpg'
 favicon: 'assets/images/favicon.png'
 baseurl: 'https://ipskid.github.io/TheTruth'
